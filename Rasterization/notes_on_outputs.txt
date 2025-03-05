@@ -1,0 +1,1 @@
+in clipping when we add new vertices to vertex list, our drawTriangle includes these clipping vertices too.
